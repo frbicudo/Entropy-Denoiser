@@ -17,6 +17,8 @@ The following optional arguments can be used:
 - magnitude_threshold: Define the magnitude threshold that affects the cleaning effect (should be a value betwen 0 and 1, default = 0.2)
 - output:  String that defines the output type. If '' does not change the values. If 'original' convert the preserved data into its original magnitude values. If 'mask' returns a binary mask where empty is indicated by 0 and data is indicated by 1. If 'entropy' will show the entropy values for each window (default = '').
 
+The whistle audio sample provided is from the [Watkins Marine Mammal Sound Database](https://whoicf2.whoi.edu/science/B/whalesounds/bestOf.cfm?code=BD15C)
+
 
 
 
