@@ -15,7 +15,7 @@ hop = 736
 fft = 2048
 # Frequency range
 fmin = 4000
-fmax = 44000
+fmax = 40000
 
 # open file
 audio, sr = librosa.load(fileName, sr=target_sr)
