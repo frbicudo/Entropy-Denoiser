@@ -3,6 +3,10 @@
 
 This code is a python implementation of the entropy denoising method proposed in the paper: Unveiling Cetacean Voices: Entropy-Powered Spectrogram Denoising for Deep Learning Applications.
 
+![example](example.svg)
+
+
+
 The main.py file shows both an original and denoised spectrogram taken from whistle.wav.
 The fileName variable can be changed to try diferent audio files.
 
