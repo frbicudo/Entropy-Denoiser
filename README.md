@@ -4,7 +4,8 @@
 This code is a python implementation of the entropy denoising method proposed in the paper: Unveiling Cetacean Voices: Entropy-Powered Spectrogram Denoising for Deep Learning Applications.
 
 
-![image](https://github.com/user-attachments/assets/7a17e894-4a2f-4825-b956-5542a23af16f)
+![example](https://github.com/user-attachments/assets/5b5fbaa7-217d-4477-a3d4-dcfc3b2fa8b5)
+
 
 
 
