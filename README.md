@@ -1,7 +1,8 @@
 
 # Entropy Denoising Method Showcase
 
-This code is a python implementation of the entropy denoising method proposed in the paper: Unveiling Cetacean Voices: Entropy-Powered Spectrogram Denoising for Deep Learning Applications.
+This code is a python implementation of the entropy denoising method proposed in the paper:
+[Unveiling Cetacean Voices: Entropy-Powered Spectrogram Denoising for Deep Learning Applications](https://franciscobicudo.com/#paper)
 
 
 ![example](https://github.com/user-attachments/assets/5b5fbaa7-217d-4477-a3d4-dcfc3b2fa8b5)
